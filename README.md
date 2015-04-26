@@ -17,4 +17,10 @@ With the following rules
 4) The title of your "reset" should follow the format 
 
     The-Organizers-Reset-[next number in the series of public repositories]
+    
+5) The repository title should follow the format
+    
+    Reset-[the next number in the series of public repositories]
+    
+    
 
