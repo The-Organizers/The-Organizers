@@ -21,6 +21,3 @@ With the following rules
 5) The repository title should follow the format
 
     Reset-[the next number in the series of public repositories]
-
-
-

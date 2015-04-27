@@ -29,14 +29,14 @@ Two cups of tea were sitting on the table that sat between two sofas. David sat 
 
 Would it help if you could talk to the person who gave it to us?
 
-Absolutely! I just assumed this was collected from a transmission. Not from a spy.
+>Absolutely! I just assumed this was collected from a transmission. Not from a spy.
 
 Then I will arrange it. But when you leave the embassy, do not talk to anyone. If you speak they will know you are Chinese. We don't want that.
 People will address you by "David" and just do as you are told.
 
 "Have you ever been to the horse races in Hong Kong?"
 
-"Yes, but it's been many years."
+>Yes, but it's been many years.
 
 "Your tea is getting cold. You better drink it while it's warm."
 
@@ -70,7 +70,7 @@ David suddenly recognized the distinctive voice. He turned responded “Mr. Pres
 
 “Being that powerful, the AI learned quickly, and evolved on its own. We connected it to 3D printers, nuclear power, and lots of other top of the line hardware.”
 
-“Two weeks ago, the computer seemed to go into a sleep mode. No sharp increases and decreases in power consumption or processing. It was just keeping a perfectly steady and smooth pace.” 
+“Two weeks ago, the computer seemed to go into a sleep mode. No sharp increases and decreases in power consumption or processing. It was just keeping a perfectly steady and smooth pace.”
 
 “Then we noticed the data storage was increasing at a much faster rate than we anticipated. Being a quantum computer, I am told it can handle and store more info that we could imagine. So there was no concern about the storage running out. But we couldn’t figure out what it was storing. Well, the scientists couldn’t. I wasn’t brought in until 2 years later.”
 
@@ -88,7 +88,7 @@ David suddenly recognized the distinctive voice. He turned responded “Mr. Pres
 
 “A Reset?”
 
-“Yes, a  reset. It  is when we tell the computer to move everything back to an earlier state. Like rewinding a movie or a song.” 
+“Yes, a  reset. It  is when we tell the computer to move everything back to an earlier state. Like rewinding a movie or a song.”
 
 “Wait. Going back in time? Are you talking about time travel? Why are you telling me about this?”
 
