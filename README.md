@@ -12,6 +12,7 @@ Guidelines:
 1) Each story ends with a reset. End your "reset" with the below 2 lines. If you do not, it will be assumed your story is incomplete.
 
     $ sudo reset
+    
     $ Password:
 
 
